@@ -1,0 +1,17 @@
+/**
+ * @name Slate
+ * @author Gibbu#1211 & Tropical#8908
+ * @version 1.1
+ * @invite TeRQEPb
+ * @description An optimized, consistent, and functional theme for Discord based on GitHub's design language.
+ * @source https://github.com/DiscordStyles/Slate/
+ * @website https://discordstyles.github.io/slate-theme/
+*/
+
+/*
+  Import Source Code 
+*/
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;300;400;500;700&display=swap');
+@import url("https://discord-modifications.github.io/dark-discord/src/source.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
