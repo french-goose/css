@@ -1,6 +1,5 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;300;400;500;700&display=swap");
-@import url("https://discord-modifications.github.io/dark-discord/src/source.css");
+@import url("https://discord-modifications.github.io/discord-revamp/src/source.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 * {
