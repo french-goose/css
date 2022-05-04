@@ -10,8 +10,7 @@
  --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
  --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
 }
-/*
+
 * {
   font-family: 'Fira Code' !important;
 }
-*/
