@@ -1,11 +1,7 @@
-/*
-@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css");
-*//*
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
-@import url("https://discord-modifications.github.io/discord-revamp/src/source.css");
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
-*/
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-16-V5/DTM-16.css);
+@import url(https://raw.githubusercontent.com/XYZenix/XYZenixThemes/master/dtm16-addons/2015-embeds.css);
+@import url(https://raw.githubusercontent.com/XYZenix/XYZenixThemes/master/dtm16-addons/2015-userpanel.css);
+@import url(https://raw.githubusercontent.com/XYZenix/XYZenixThemes/master/dtm16-addons/Old-Invite-Embed.css);
 :root {
  --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
  --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
