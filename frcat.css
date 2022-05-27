@@ -4,10 +4,19 @@
 @import url(https://cdn.jsdelivr.net/gh/XYZenix/XYZenixThemes@master/dtm16-addons/2015-userpanel.css);
 @import url(https://cdn.jsdelivr.net/gh/XYZenix/XYZenixThemes@master/dtm16-addons/Old-Invite-Embed.css);
 :root {
- --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
- --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
+    --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
+    --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
 }
 
 * {
-  font-family: 'Fira Code' !important;
+    font-family: "Fira Code" !important;
+}
+
+.theme-dark .panels-3wFtMD .container-YkUktl {
+    border-top: solid 1px #0c0c0c;
+    background: #0c0c0c;
+}
+
+.container-YkUktl:after {
+    display: none !important;
 }
