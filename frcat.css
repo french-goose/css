@@ -1,22 +1,4 @@
-@import url(https://xyzenix.github.io/XYZenixThemes/DTM-16-V5/DTM-16.css);
 @import url(https://discord-modifications.github.io/dark-discord/src/source.css);
-@import url(https://cdn.jsdelivr.net/gh/XYZenix/XYZenixThemes@master/dtm16-addons/2015-embeds.css);
-@import url(https://cdn.jsdelivr.net/gh/XYZenix/XYZenixThemes@master/dtm16-addons/2015-userpanel.css);
-@import url(https://cdn.jsdelivr.net/gh/XYZenix/XYZenixThemes@master/dtm16-addons/Old-Invite-Embed.css);
-:root {
-    --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
-    --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
-}
-
 * {
-    font-family: "Fira Code" !important;
-}
-
-.theme-dark .panels-3wFtMD .container-YkUktl {
-    border-top: solid 1px #0c0c0c;
-    background: #0c0c0c;
-}
-
-.container-YkUktl:after {
-    display: none !important;
+    font-family: "Fira Code" !important; /* Yes, I have Fira Code installed system wide */
 }
