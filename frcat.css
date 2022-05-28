@@ -2,3 +2,6 @@
 * {
     font-family: "Fira Code" !important; /* Yes, I have Fira Code installed system wide */
 }
+.wordmarkWindows-2dq6rw .wordmark-2u86JB {
+    display:none /* Begone ugly watermark */
+}
