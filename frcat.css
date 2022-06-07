@@ -1,4 +1,4 @@
-@import "https://cdn.jsdelivr.net/gh/MiloLug/amoled-discord-black@main/AMOLED-Cord.black.theme.css";/*"https://discord-modifications.github.io/dark-discord/src/source.css";*/
+@import "https://discord-modifications.github.io/dark-discord/src/source.css";
 @import "https://comfy-themes.github.io/Discord/betterdiscord/main.css";
 @import "https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css";
 @import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
@@ -66,4 +66,15 @@
     --header-primary: #fff;
     --header-secondary: #b1b5b9;
     --text-normal: #8e9297;
+}
+
+.titleBar-1it3bQ.typeWindows-2-g3UY::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+    background: url('https://discord-theme.pages.dev/assets/wm.svg')
+    width: 16px;
+    height: 16px;
+    left: 5px;
+    top: 4px;
 }
