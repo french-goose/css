@@ -67,3 +67,7 @@
     --header-secondary: #b1b5b9;
     --text-normal: #8e9297;
 }
+
+*[aria-hidden="true"], .pill-2RsI5Q .wrapper-z5ab_q {
+    display:none;
+}
