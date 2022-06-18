@@ -67,8 +67,6 @@
     --text-normal: #8e9297;
 }
 
-.pill-2RsI5Q, guildSeparator-a4uisj {
+.pill-2RsI5Q, .guildSeparator-a4uisj, .unread-badge {
     display:none;
 }
-
-.unread-badge{display:none}
