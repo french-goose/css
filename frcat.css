@@ -4,7 +4,6 @@
 @import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css";
 @import "https://discord-modifications.github.io/modern-indicators/src/source.css";
-@import "https://cdn.jsdelivr.net/gh/French-Cat/rainbow.css@main/rainbow.css";
 :root {
     --status-background: url("https://discord-theme.pages.dev/assets/img.jpg");
     --user-buttons-spacing: 8px;
