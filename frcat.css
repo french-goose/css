@@ -1,33 +1,5 @@
-/*
-  Imports
-*/
-@import url("https://discordstyles.github.io/AdjustableServerWidth/base.css");
-@import url("https://schnensch0.github.io/zelk/main.css");
 @import url("https://mr-miner1.github.io/Better-Badges/src/badges.css");
 @import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
-
-/*
-  Vars
-*/
-:root {
-    /* Server List */
-    --server-icon-size: 35px;
-    --server-icon-spacing: 8px;
-    --server-container-padding: 10px;
-
-    /* Better Badges */
-    --badge-size: 22px;
-    --badge-margin: 1.5px;
-    --badges-everywhere-size: 15px;
-
-    /* Settings Modal */
-    --settingsmodalbackground: transparent;
-    --settingsmodalwidth: 960px;
-    --settingsmodalheight: 80vh;
-}
-
-/*
-  Custom CSS
-*/
+@import url("https://discord-modifications.github.io/dark-discord/src/source.css");
