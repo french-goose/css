@@ -24,6 +24,6 @@
   --settingsicons: 1;
 }
 
-.guildSeparator-a4uisj, *[aria-label="Download Apps"] {
+.guildSeparator-a4uisj, *[aria-label="Download Apps"], .notice-2HEN-u {
   display: none;
 }
