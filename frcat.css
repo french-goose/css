@@ -23,3 +23,7 @@
   --backgroundfloating: 0,0,0;
   --settingsicons: 1;
 }
+
+.guildSeparator-a4uisj, *[aria-label="Download Apps"] {
+  display: none;
+}
